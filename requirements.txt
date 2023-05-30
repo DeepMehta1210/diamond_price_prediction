@@ -2,4 +2,3 @@ NumPy
 Pandas
 Scikit-learn
 streamlit
-pickle
